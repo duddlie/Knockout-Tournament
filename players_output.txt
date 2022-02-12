@@ -1,0 +1,9 @@
+Enter your name: 
+Welcome mitchell
+Welcome to a competitive fighting simulator where you will be competing against 3 opponents in 3 seperate battles.
+Your stats will be important in the overall outcome of your fights so choose them wisely!
+Same goes with your weapon and your armour, these will be crucial to ensure victory.
+As you progress, the difficulty of each fight will increase so best of luck to you!
+Enter your desired strength between 0 and 15: Remaining points: 10
+Enter your desired speed between 0 and 10: Remaining Points: 5
+Enter your desired drip of 5 for your drip: 

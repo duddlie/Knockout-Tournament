@@ -1,0 +1,13 @@
+Armour Choices:
+Leather(1) Gold(2) Chain(3)
+Diamond(4) Iron(5) Netherite(6)
+Pick a piece of armour by entering the number from 1-6
+You selected this piece of armour: Gold
+This armour has score: 2 and type: 1
+changing type to 1
+your armour now has type: 1
+changing type to 2
+your armour now has type: 2
+changing type to 3
+type setting error, must be 1 or 2
+your armour now has type: 2

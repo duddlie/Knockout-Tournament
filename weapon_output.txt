@@ -1,0 +1,8 @@
+Please choose which type of weapon you would like
+For a heavy weapon, press 1
+For a light weapon, press 2
+For a range weapon, press 3
+
+You have chosen a light weapon.
+Please select which light weapon you would like
+You have chosen a Hatchet as your weapon

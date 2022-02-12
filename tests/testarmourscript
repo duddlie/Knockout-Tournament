@@ -1,0 +1,8 @@
+echo Test 1: 2
+./armourtest < input1.txt | diff - output1.txt
+
+echo Test 2: 7
+./armourtest < input2.txt | diff - output2.txt
+
+echo test 3: aaa
+./armourtest < input3.txt | diff - output3.txt

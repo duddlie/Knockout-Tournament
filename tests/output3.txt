@@ -1,0 +1,5 @@
+Armour Choices:
+Leather(1) Gold(2) Chain(3)
+Diamond(4) Iron(5) Netherite(6)
+Pick a piece of armour by entering the number from 1-6
+enter a valid number silly
